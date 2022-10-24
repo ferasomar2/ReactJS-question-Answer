@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJS-question-Answer/static/css/main.63f0be1a.chunk.css",
+    "main.js": "/ReactJS-question-Answer/static/js/main.22d13194.chunk.js",
+    "main.js.map": "/ReactJS-question-Answer/static/js/main.22d13194.chunk.js.map",
+    "runtime-main.js": "/ReactJS-question-Answer/static/js/runtime-main.7b2dc1e0.js",
+    "runtime-main.js.map": "/ReactJS-question-Answer/static/js/runtime-main.7b2dc1e0.js.map",
+    "static/css/2.dc692443.chunk.css": "/ReactJS-question-Answer/static/css/2.dc692443.chunk.css",
+    "static/js/2.9ffcbf10.chunk.js": "/ReactJS-question-Answer/static/js/2.9ffcbf10.chunk.js",
+    "static/js/2.9ffcbf10.chunk.js.map": "/ReactJS-question-Answer/static/js/2.9ffcbf10.chunk.js.map",
+    "index.html": "/ReactJS-question-Answer/index.html",
+    "static/css/2.dc692443.chunk.css.map": "/ReactJS-question-Answer/static/css/2.dc692443.chunk.css.map",
+    "static/css/main.63f0be1a.chunk.css.map": "/ReactJS-question-Answer/static/css/main.63f0be1a.chunk.css.map",
+    "static/js/2.9ffcbf10.chunk.js.LICENSE.txt": "/ReactJS-question-Answer/static/js/2.9ffcbf10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b2dc1e0.js",
+    "static/css/2.dc692443.chunk.css",
+    "static/js/2.9ffcbf10.chunk.js",
+    "static/css/main.63f0be1a.chunk.css",
+    "static/js/main.22d13194.chunk.js"
+  ]
+}
